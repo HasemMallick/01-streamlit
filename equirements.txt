@@ -3,3 +3,4 @@ sqlalchemy
 streamlit
 json
 pydeck
+pandas
