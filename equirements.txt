@@ -1,0 +1,5 @@
+geopandas
+sqlalchemy 
+streamlit
+json
+pydeck
